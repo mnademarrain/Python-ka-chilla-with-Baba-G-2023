@@ -1,6 +1,3 @@
-# Python-ka-chilla-with-Baba-G-2023
-Learning &amp; understanding the whole course wuth Dr. Aammar
-
 # 1 - Heading 
 <!-- to view the side pannel which is preview of the markdown file press ctrl+k=v PRESS LIKE CTRL AND LEAVE PRESS K AND LEAVE PRESS V TO VIEW THE SIDE PANNEL FOR PREVIEW REMEBER.  -->
 
